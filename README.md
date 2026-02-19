@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 NITIN KUMAR KATIYAR<br><br>Engineering Manager | Staff Backend Engineer | Java | Microservices<br>nitin.katiyar.kumar@gmail.com | <a href="https://www.linkedin.com/in/nitin-katiyar-b7601a195/">Linkedin Profile</a><br>Ghaziabad, Uttar Pradesh, India<br><br>Strategic Engineering Manager and Senior Java Backend Specialist with 10+ years of experience<br>designing, building, and scaling high-performance distributed systems. Proven leader in Microservices<br>Architecture, cloud-native platforms, and large-scale data processing. Expert in mentoring engineering<br>teams, improving delivery velocity by 15%, and reducing production incidents. Adept at bridging the gap<br>between complex technical requirements and business objectives.
 
 
